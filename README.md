@@ -2,6 +2,8 @@
 ## 前言：
 * alphaFM_softmax是[alphaFM](https://github.com/CastellanZhang/alphaFM)的多分类版本。<br>
 
+* 算法原理见我的博客文章：http://castellanzhang.github.io/2016/10/16/fm_ftrl_softmax/
+
 * 当将dim参数设置为1,1,0时，alphaFM_softmax就退化成标准的softmax的FTRL训练工具。<br>
 
 ##安装方法：
